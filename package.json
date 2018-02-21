@@ -1,0 +1,11 @@
+{
+  "name": "authenticationIntro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DDCSLearning/authenticationIntro.git",
+  "author": "DanielDeutsch <deudan1010@gmail.com>",
+  "license": "none",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

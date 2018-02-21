@@ -1,0 +1,44 @@
+#btn1{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#mainbanner{
+	max-width: 100%;
+    height: auto;
+}
+.parallax{
+    /* The image used */
+    background-image: url("student.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2{
+    /* The image used */
+    background-image: url("typewriter.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.spacer{
+    padding-bottom: 10%;
+}
+
+.footerlogo{
+    max-height: 200px;
+    max-width: 400px;
+}
